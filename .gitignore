@@ -1,0 +1,17 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+
+*.tfstate
+*.tfstate.*
+.terraform/
+
+*.pem
+*.key
+secrets/
+credentials/
